@@ -1,0 +1,42 @@
+<annotation verified="yes">
+	<folder>picture</folder>
+	<filename>美国俄勒冈州山火已烧掉一个“纽约市区” 或11月底才能完全控制 - 1.美国俄勒冈州山火已烧掉一个“纽约市区” 或11月底才能完全控制(Av249305334,P1) 0130.jpg</filename>
+	<path>D:\picture\美国俄勒冈州山火已烧掉一个“纽约市区” 或11月底才能完全控制 - 1.美国俄勒冈州山火已烧掉一个“纽约市区” 或11月底才能完全控制(Av249305334,P1) 0130.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>670</width>
+		<height>670</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>564.7397</cx>
+			<cy>371.3836</cy>
+			<w>160.0</w>
+			<h>486.0</h>
+			<angle>0.0</angle>
+		</robndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>260.7397</cx>
+			<cy>196.3836</cy>
+			<w>252.0</w>
+			<h>84.0</h>
+			<angle>5.583185</angle>
+		</robndbox>
+		<extra/>
+	</object>
+</annotation>

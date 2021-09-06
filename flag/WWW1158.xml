@@ -1,0 +1,42 @@
+<annotation verified="yes">
+	<folder>tu</folder>
+	<filename>澳洲森林大火现场视频，消防员视角可怕场面...... - 1.澳洲森林大火现场视频，消防员视角可怕场面......(Av82429323,P1) 1158.jpg</filename>
+	<path>D:\tu\澳洲森林大火现场视频，消防员视角可怕场面...... - 1.澳洲森林大火现场视频，消防员视角可怕场面......(Av82429323,P1) 1158.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>204.1395</cx>
+			<cy>354.314</cy>
+			<w>250.0</w>
+			<h>619.0</h>
+			<angle>0.0</angle>
+		</robndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>808.1395</cx>
+			<cy>139.814</cy>
+			<w>406.0</w>
+			<h>258.0</h>
+			<angle>0.0</angle>
+		</robndbox>
+		<extra/>
+	</object>
+</annotation>

@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>originImg</folder>
+	<filename>wildfire.jpg</filename>
+	<path>D:\dl\labelImg2-master\originImg\wildfire.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

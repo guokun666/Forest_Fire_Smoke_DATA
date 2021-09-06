@@ -1,0 +1,42 @@
+<annotation verified="yes">
+	<folder>picture</folder>
+	<filename>同样是山火，中国能救，澳洲救不了，看完秒懂！ - 1.同样是山火，中国能救，澳洲救不了，看完秒懂！(Av82882029,P1) 2567.jpg</filename>
+	<path>D:\picture\同样是山火，中国能救，澳洲救不了，看完秒懂！ - 1.同样是山火，中国能救，澳洲救不了，看完秒懂！(Av82882029,P1) 2567.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>349.5769</cx>
+			<cy>85.0</cy>
+			<w>257.0</w>
+			<h>122.0</h>
+			<angle>6.183185</angle>
+		</robndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>641.0385</cx>
+			<cy>80.2663</cy>
+			<w>157.9231</w>
+			<h>68.5327</h>
+			<angle>0.0</angle>
+		</robndbox>
+		<extra/>
+	</object>
+</annotation>

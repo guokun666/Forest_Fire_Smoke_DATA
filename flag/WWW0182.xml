@@ -1,0 +1,28 @@
+<annotation verified="yes">
+	<folder>picture</folder>
+	<filename>加州山火已成人间炼狱 恐怖“火龙卷”现身血色天空 警报响彻城市 - 1.加州山火已成人间炼狱 恐怖“火龙卷”现身血色天空 警报响彻城市(Av372039856,P1) 0182.jpg</filename>
+	<path>D:\picture\加州山火已成人间炼狱 恐怖“火龙卷”现身血色天空 警报响彻城市 - 1.加州山火已成人间炼狱 恐怖“火龙卷”现身血色天空 警报响彻城市(Av372039856,P1) 0182.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>670</width>
+		<height>670</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>402.6367</cx>
+			<cy>360.3094</cy>
+			<w>449.0</w>
+			<h>590.0</h>
+			<angle>0.0</angle>
+		</robndbox>
+		<extra/>
+	</object>
+</annotation>
